@@ -7,8 +7,9 @@ seaborn==0.13.2
 six==1.17.0
 tzdata==2025.2
 pynance
-TA-lib
 yfinance
 scikit-learn
 textblob
 nltk
+google-play-scraper==1.2.7
+vaderSentiment==3.3.2
